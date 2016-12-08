@@ -1,0 +1,19 @@
+div#mymodule_block_left p {
+  font-size: 120%;
+  text-align: center;
+}
+
+div#mymodule_block_left a {
+  font-size: 120%;
+  text-align: center;
+  color:blue;
+}
+
+#titreDicton {
+    font-size: 300%;
+    color:black;
+}
+
+#Dicton {
+    font-size: 240%;
+}
